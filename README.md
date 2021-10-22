@@ -24,8 +24,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/NandodkarAmogh/Counter](https://github.com/NandodkarAmogh/Counter)
-- Live Site URL: [https://simple-javascript-counter.netlify.app/](https://simple-javascript-counter.netlify.app/)
+- Solution URL: [https://github.com/NandodkarAmogh/Reviews](https://github.com/NandodkarAmogh/Reviews)
+- Live Site URL: [https://js-reviews-carousel.netlify.app/](https://js-reviews-carousel.netlify.app/)
 
 ## My process
 
